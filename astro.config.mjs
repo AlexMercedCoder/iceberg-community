@@ -5,21 +5,31 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Apache Iceberg Unofficial Community Directory',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				twitter: 'https://www.twitter.com/icebergdatalake',
+				linkedin: 'https://www.linkedin.com/company/learniceberg'
 			},
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
+					label: 'Online Community',
+					autogenerate: { directory: 'online' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'North American Community',
+					autogenerate: { directory: 'na' },
+				},
+				{
+					label: 'European Community',
+					autogenerate: { directory: 'eu' },
+				},
+				{
+					label: 'Asian Community',
+					autogenerate: { directory: 'as' },
+				},
+				{
+					label: 'How to Start your Local Iceberg Community',
+					autogenerate: { directory: 'start' },
 				},
 			],
 		}),
