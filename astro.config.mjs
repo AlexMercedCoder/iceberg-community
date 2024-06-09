@@ -28,6 +28,14 @@ export default defineConfig({
 					autogenerate: { directory: 'as' },
 				},
 				{
+					label: 'Australian Community',
+					autogenerate: { directory: 'au' },
+				},
+				{
+					label: 'Central & South American Community',
+					autogenerate: { directory: 'latam' },
+				},
+				{
 					label: 'How to Start your Local Iceberg Community',
 					autogenerate: { directory: 'start' },
 				},
