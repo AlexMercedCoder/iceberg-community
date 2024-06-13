@@ -10,7 +10,7 @@ Less concerned with telling a story or addressing a specific use case, they shou
 
 - [Official Apache Iceberg Slack Workspace and Mailing List](https://iceberg.apache.org/community/)
 - [Apache Iceberg Twitter](https://x.com/apacheiceberg?lang=en)
-- [Apache Iceberg LinkedIN Page]()
+- [Apache Iceberg LinkedIN Page](https://www.linkedin.com/company/apacheiceberg/)
 
 ## Virtual Meetup Groups
 

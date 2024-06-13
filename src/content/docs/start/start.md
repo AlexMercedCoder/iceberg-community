@@ -13,9 +13,11 @@ The first thing you'll want to do is create a community event group for your loc
 
 - [**Mobilizon**](https://www.joinmobilizon.org): An open source events page platform, you can deploy your own instance of Mobilizon or use one of many [running instances](https://instances.joinmobilizon.org/instances).
 
+Once your group is created submit it to be added to icebergcommunity.com fill out [this form](https://airtable.com/appjJ1DnEMvRV173g/pagH1oVMGTgzuwGTg/form).
+
 ## Step 2 - Create Slack Channel
 
-Join the official [Apache Iceberg Slack Workspace](https://iceberg.apache.org/community/) and join or create a `#meetup` channel for your local area. If you can't create a new channel in the Official Workspace try creating a channel in the [Data Lakehouse Hub](https://join.slack.com/t/thedatalakehousehub/shared_invite/zt-274yc8sza-mI2zhCW8LGkOh1uxuf8T5Q).
+Join the official [Apache Iceberg Slack Workspace](https://iceberg.apache.org/community/) and join or create a `#meetup` channel for your local area. Once your meetup is submitted we will work to get you a slack channel for your group if the geographical area doesn't have an existing slack channel.
 
 Existing Channels at the time of writing include:
 
@@ -30,10 +32,6 @@ Existing Channels at the time of writing include:
 - `#meetup-seattle`
 
 These are great ways to discuss meeting with community members in your local area and promoting events.
-
-Other good slack channels to promote your event or create local channels in include:
-
-- [The Data Lakehouse Hub](https://join.slack.com/t/thedatalakehousehub/shared_invite/zt-274yc8sza-mI2zhCW8LGkOh1uxuf8T5Q)
 
 ## Step 3 - Schedule Events
 
