@@ -16,5 +16,3 @@ Less concerned with telling a story or addressing a specific use case, they shou
 
 ## Other Unofficial Online Iceberg Outlets
 - [Apache Iceberg Workshops LinkedIN Page](https://www.linkedin.com/company/93113913/admin/feed/posts/)
-- [Iceberg Lakehouse Blog](https://blog.iceberglakehouse.com)
-- [Apache Iceberg Data Lakehouse Tips twitter](https://twitter.com/icebergdatalake)
