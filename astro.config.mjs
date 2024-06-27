@@ -39,6 +39,10 @@ export default defineConfig({
 					label: 'How to Start your Local Iceberg Community',
 					autogenerate: { directory: 'start' },
 				},
+				{
+					label: 'Community Assets',
+					autogenerate: { directory: 'community' },
+				},
 			],
 		}),
 	],
