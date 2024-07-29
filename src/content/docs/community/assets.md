@@ -14,9 +14,7 @@ We hope to house the following assets for the community:
 
 - PDFs of content, cheat sheets and other Apache Iceberg resources
 
-You can submit your asset or a link to your asset to be available here by submitting the following form:
-
-- [Submission Form](https://airtable.com/appjJ1DnEMvRV173g/pagqESey2e5R7pV1z/form)
+- Submit additions to the directory by either emailing email@icebergcommunity.com or making a [pull request on this websites repo.](https://github.com/AlexMercedCoder/iceberg-community)
 
 ## Community Assets Folder
 

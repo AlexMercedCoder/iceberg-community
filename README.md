@@ -1,4 +1,5 @@
 # Unofficial Apache Iceberg Community Website
+_This website is not affiliated with the Apache Software Foundation or the Apache Iceberg project, official Iceberg website at iceberg.apache.org._
 
 All the markdowns for content on the website are under /content/docs/
 

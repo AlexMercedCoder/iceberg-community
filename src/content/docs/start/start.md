@@ -13,7 +13,7 @@ The first thing you'll want to do is create a community event group for your loc
 
 - [**Mobilizon**](https://www.joinmobilizon.org): An open source events page platform, you can deploy your own instance of Mobilizon or use one of many [running instances](https://instances.joinmobilizon.org/instances).
 
-Once your group is created submit it to be added to icebergcommunity.com fill out [this form](https://airtable.com/appjJ1DnEMvRV173g/pagH1oVMGTgzuwGTg/form).
+Once your group is created submit additions to the directory by either emailing email@icebergcommunity.com or making a [pull request on this websites repo.](https://github.com/AlexMercedCoder/iceberg-community)
 
 ## Step 2 - Create Slack Channel
 
@@ -39,7 +39,7 @@ Create an event on your event page and post in your local slack channels. Here a
 
 - **Dev Event**: Targeted towards Apache Iceberg developers, have people who have committed Apache Iceberg talk about their contributions and proposals. Depending on location, these may be better done as virtual events to make easier for Iceberg devs to attend.
 
-- **User Event**: Targeted towards Apache Iceberg users, these events have talks to educate people on Apache Iceberg, talks on Apache Iceberg supporting tools or reviews of usage of Apache Iceberg in production.
+- **User Event**: Targeted towards existing and potential Apache Iceberg users, these events have talks to educate people on Apache Iceberg, talks on Apache Iceberg supporting tools or reviews of usage of Apache Iceberg in production.
 
 - **Social Event**: Dinner, Drinks an event with no speakers for meetup members to socialize and get to know one another.
 

@@ -2,8 +2,7 @@
 title: New York
 description: Directory of Apache Iceberg Communities in New York
 ---
--[Submit your meetup](https://airtable.com/appjJ1DnEMvRV173g/pagH1oVMGTgzuwGTg/form)
-- [Submit possible update](https://airtable.com/appjJ1DnEMvRV173g/pagqESey2e5R7pV1z/form)
+- Submit additions to the directory by either emailing email@icebergcommunity.com or making a [pull request on this websites repo.](https://github.com/AlexMercedCoder/iceberg-community)
 
 ## Slack
 
