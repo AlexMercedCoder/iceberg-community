@@ -7,8 +7,8 @@ export default defineConfig({
 		starlight({
 			title: 'Apache Iceberg Unofficial Community Directory',
 			social: {
-				twitter: 'https://www.twitter.com/icebergdatalake',
-				linkedin: 'https://www.linkedin.com/company/learniceberg'
+				// twitter: 'https://www.twitter.com/icebergdatalake',
+				// linkedin: 'https://www.linkedin.com/company/learniceberg'
 			},
 			sidebar: [
 				{
