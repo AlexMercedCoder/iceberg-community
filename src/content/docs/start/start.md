@@ -1,5 +1,5 @@
 ---
-title: How to Start Your Local Apache Iceberg Community
+title: How to Start Your Local Apache Iceberg™Community
 description: The Basics of Community Management
 ---
 
@@ -17,7 +17,7 @@ Once your group is created submit additions to the directory by either emailing 
 
 ## Step 2 - Create Slack Channel
 
-Join the official [Apache Iceberg Slack Workspace](https://iceberg.apache.org/community/) and join or create a `#meetup` channel for your local area. Once your meetup is submitted we will work to get you a slack channel for your group if the geographical area doesn't have an existing slack channel.
+Join the official [Apache Iceberg™Slack Workspace](https://iceberg.apache.org/community/) and join or create a `#meetup` channel for your local area. Once your meetup is submitted we will work to get you a slack channel for your group if the geographical area doesn't have an existing slack channel.
 
 Existing Channels at the time of writing include:
 
@@ -37,9 +37,9 @@ These are great ways to discuss meeting with community members in your local are
 
 Create an event on your event page and post in your local slack channels. Here are some ideas for events:
 
-- **Dev Event**: Targeted towards Apache Iceberg developers, have people who have committed Apache Iceberg talk about their contributions and proposals. Depending on location, these may be better done as virtual events to make easier for Iceberg devs to attend.
+- **Dev Event**: Targeted towards Apache Iceberg™developers, have people who have committed Apache Iceberg™talk about their contributions and proposals. Depending on location, these may be better done as virtual events to make easier for Iceberg devs to attend.
 
-- **User Event**: Targeted towards existing and potential Apache Iceberg users, these events have talks to educate people on Apache Iceberg, talks on Apache Iceberg supporting tools or reviews of usage of Apache Iceberg in production.
+- **User Event**: Targeted towards existing and potential Apache Iceberg™users, these events have talks to educate people on Apache Iceberg, talks on Apache Iceberg™supporting tools or reviews of usage of Apache Iceberg™in production.
 
 - **Social Event**: Dinner, Drinks an event with no speakers for meetup members to socialize and get to know one another.
 

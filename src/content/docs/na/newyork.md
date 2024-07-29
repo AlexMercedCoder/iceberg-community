@@ -1,15 +1,16 @@
 ---
 title: New York
-description: Directory of Apache Iceberg Communities in New York
+description: Directory of Apache Iceberg™Communities in New York
 ---
+
 - Submit additions to the directory by either emailing email@icebergcommunity.com or making a [pull request on this websites repo.](https://github.com/AlexMercedCoder/iceberg-community)
 
 ## Slack
 
-- New York City Iceberg meetup slack channel on Official [Apache Iceberg Slack Workspace](https://iceberg.apache.org/community/) `#meetup-nyc`
+- New York City Iceberg meetup slack channel on Official [Apache Iceberg™Slack Workspace](https://iceberg.apache.org/community/) `#meetup-nyc`
 
 ## Meetup Groups
 
-- [North American Apache Iceberg Meetup Group](https://www.meetup.com/na-apache-iceberg-meetups/)
+- [North American Apache Iceberg™Meetup Group](https://www.meetup.com/na-apache-iceberg-meetups/)
 
 ## Other Outlets
