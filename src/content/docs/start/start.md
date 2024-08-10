@@ -44,3 +44,6 @@ Create an event on your event page and post in your local slack channels. Here a
 - **Social Event**: Dinner, Drinks an event with no speakers for meetup members to socialize and get to know one another.
 
 It is recommended to make it clear which category the event is in via the title of the particular event. Feel free to link to this page in the event description to help people understand the types of events.
+
+
+<h6><center>Apache Iceberg, Iceberg, Apache are either registered trademarks or trademarks of the Apache Software Foundation</center></h6>

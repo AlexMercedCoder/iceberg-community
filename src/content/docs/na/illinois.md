@@ -9,8 +9,12 @@ description: Directory of Apache Iceberg™Communities in Illinois
 
 - Chicago Iceberg meetup slack channel on Official [Apache Iceberg™Slack Workspace](https://iceberg.apache.org/community/) `#meetup-chicago`
 
+
+<h6><center>Apache Iceberg, Iceberg, Apache are either registered trademarks or trademarks of the Apache Software Foundation</center></h6>
+
 ## Meetup Groups
 
 - [North American Apache Iceberg™Meetup Group](https://www.meetup.com/na-apache-iceberg-meetups/)
+- [North American Open Data Lakehouse Linkups](https://www.meetup.com/north-american-open-data-lakehouse-linkups/)
 
 ## Other Outlets

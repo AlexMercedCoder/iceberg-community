@@ -10,3 +10,6 @@ description: Directory of Apache Iceberg™Communities in Australia
 ## Meetup Groups (meetup/luma/mobilizon)
 
 ## Other Outlets
+
+
+<h6><center>Apache Iceberg, Iceberg, Apache are either registered trademarks or trademarks of the Apache Software Foundation</center></h6>

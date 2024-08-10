@@ -11,3 +11,6 @@ Less concerned with telling a story or addressing a specific use case, they shou
 - [Official Apache Iceberg™Slack Workspace and Mailing List](https://iceberg.apache.org/community/)
 
 ## Virtual Meetup Groups
+
+
+<h6><center>Apache Iceberg, Iceberg, Apache are either registered trademarks or trademarks of the Apache Software Foundation</center></h6>

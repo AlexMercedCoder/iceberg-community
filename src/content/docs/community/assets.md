@@ -30,3 +30,6 @@ https://drive.google.com/drive/folders/1GlFn8WNDPp12Y5FZf6-m_qGla26k9h2u?usp=sha
 ### Videos
 
 ### PDFs
+
+
+<h6><center>Apache Iceberg, Iceberg, Apache are either registered trademarks or trademarks of the Apache Software Foundation</center></h6>

@@ -7,10 +7,15 @@ description: Directory of Apache Iceberg™Communities in Florida
 
 ## Slack
 
-- Boston Iceberg meetup slack channel on Official [Apache Iceberg™Slack Workspace](https://iceberg.apache.org/community/) `#meetup-boston`
+- Orlando Iceberg meetup slack channel on Official [Apache Iceberg™Slack Workspace](https://iceberg.apache.org/community/) `#meetup-orlando`
+- [North American Open Data Lakehouse Linkups](https://www.meetup.com/north-american-open-data-lakehouse-linkups/)
 
 ## Meetup Groups
 
 - [North American Apache Iceberg™Meetup Group](https://www.meetup.com/na-apache-iceberg-meetups/)
 
 ## Other Outlets
+
+
+
+<h6><center>Apache Iceberg, Iceberg, Apache are either registered trademarks or trademarks of the Apache Software Foundation</center></h6>
